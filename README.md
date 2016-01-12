@@ -1,0 +1,2 @@
+# StudInfoSys
+Maintain student information
